@@ -1,0 +1,100 @@
+body{
+    padding: 100px;
+}
+header{
+    height: 1210px;
+    width: 550px;
+    padding: 30px;
+    border: 7px black solid;
+    border-radius: 20px;  
+}
+#logo{
+    height: 90px;
+}
+#icon1{
+    font-size: 55px;
+    display: flex;
+}
+.icon1{
+    justify-content: space-evenly;
+}
+.heart{
+    margin-left: 80px;
+
+}
+.send{
+    margin-left: 50px;
+}
+
+.main{
+    display: flex;
+}
+
+#boxes{
+    display: flex;
+    justify-content:space-evenly
+}
+img{
+    border-radius: ;
+}
+.a1{
+    height: 100px;
+    width: 100px;
+    border-radius: 500px;
+    border: 5px black solid;
+    margin: 19px;
+
+}
+.combo{
+    display: flex;
+    justify-content: space-evenly;
+}
+.a2{
+    height: 80px;
+    width: 80px;
+    border-radius: 500px;
+    border: 5px black solid;
+    margin: 19px;
+}
+#name{
+    display: flex; 
+    align-items: center; 
+}
+#name img{
+    margin-right: 10px;
+}
+
+.b1{
+    margin: 30px;
+}
+#post{
+    display: flex;
+}
+#name{
+    margin-bottom: 100px ;
+    padding: 5px;
+}
+#postimg{
+    width: 612px;
+    height: 400px;
+    margin-left: -32px;
+    margin-top: -50px;
+}
+
+ .icon2 {
+    display: inline-flex;
+    margin: 10px;
+    font-size: 30px; 
+    margin-top: 20px;
+}
+.lastone{
+    font-size: 29px;
+    margin-left:360px; 
+    display: inline-flex;
+    margin-bottom:10px ;
+
+}  
+.ic1{
+    font-size: 40px;
+    margin: 30px;
+}
